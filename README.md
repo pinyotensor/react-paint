@@ -10,7 +10,7 @@ npm i
 npm start
 ```
 
-Otherwise, I will publish it as a github page in <http://kwirke.github.io/react-paint> for everyone's delight.
+Otherwise, I will publish it as a github page in <http://pinyotensor.github.io/react-paint> for everyone's delight.
 
 ## How To Test It
 After git cloning this repository and running `npm i`, just do:
